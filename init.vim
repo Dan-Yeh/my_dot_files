@@ -1,0 +1,1 @@
+/Users/yehchenchen/.config/nvim/init.vim
